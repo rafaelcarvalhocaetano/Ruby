@@ -1,2 +1,4 @@
-# Ruby
-Projetos Ruby - algoritmo do básico ao avançado.
+### Ruby
+
+Iniciando Algoritmos com Ruby do Básico ao avançado, utilizando IDE da JBREANS e terminal do ruby.
+1 - Tipos de Variáveis
